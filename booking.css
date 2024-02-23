@@ -1,0 +1,159 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .list {
+    overflow: hidden;
+    background-color: #8c0000;
+  }
+  
+  .list a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 12px;
+    font-family: Abril Fatface;
+  }
+  
+  .list a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .img {
+    width: 100%;
+  }
+  
+  .title {
+    font-size: 25px;
+    font-family: Abril Fatface;
+    color: #8c0000;
+    padding-top: 30px;
+  }
+  
+  .FN {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    font-family: Abril Fatface;
+  }
+  
+  input[type="text"],
+  select {
+    width: 10%;
+    padding: 10px 20px;
+    margin-top: 5px;
+    width: 25%;
+    border-radius: 25px;
+    border-style: outset;
+    margin-left: 35px;
+  }
+  
+  .LN {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    font-family: Abril Fatface;
+  }
+  
+  input[type="text1"],
+  select {
+    width: 10%;
+    padding: 10px 20px;
+    margin-top: 5px;
+    width: 25%;
+    border-radius: 25px;
+    border-style: outset;
+    margin-left: 110px;
+  }
+  
+  .email {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    font-family: Abril Fatface;
+  }
+  
+  .date {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    font-family: Abril Fatface;
+  }
+  
+  input[type="date"],
+  select {
+    width: 10%;
+    padding: 10px 20px;
+    margin-top: 5px;
+    width: 25%;
+    border-radius: 25px;
+    border-style: outset;
+    margin-left: 90px;
+  }
+  
+  input[type="submit"],
+  select {
+    padding: 10px 20px;
+    margin-top: 5px;
+    width: 15%;
+    border-radius: 25px;
+    border-style: outset;
+    margin-left: 30px;
+    color: white;
+    background-color: #8c0000;
+  }
+  
+  .time {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    font-family: Abril Fatface;
+  }
+  
+  input[type="time"],
+  select {
+    width: 10%;
+    padding: 10px 20px;
+    margin-top: 5px;
+    width: 25%;
+    border-radius: 25px;
+    border-style: outset;
+    margin-left: 90px;
+  }
+  
+  .phone {
+    font-size: 30px;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 50px;
+    font-family: Abril Fatface;
+  }
+  
+  input[type="text2"],
+  select {
+    width: 10%;
+    padding: 10px 20px;
+    margin-top: 5px;
+    width: 25%;
+    border-radius: 25px;
+    border-style: outset;
+    margin-left: 70px;
+  }
+  
+  .finally {
+    font-size: 25px;
+    font-family: Abril Fatface;
+    color: #8c0000;
+    padding-top: 30px;
+  }
+  

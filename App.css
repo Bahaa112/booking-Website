@@ -1,0 +1,205 @@
+.App {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+  display: flex;
+  overflow: hidden;
+  background-color: #8C0000;
+  justify-content: space-evenly;
+  
+}
+
+.list a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.list a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.firstpicture{
+  position: absolute;
+  top:87px;
+  left:0px;
+  
+}
+body{
+
+}
+.whatdowedo{
+  border-style: solid;
+  border-color: red;
+  font-family: "Times New Roman", Times, serif;
+
+
+}
+.idea{
+  position: absolute;
+  top:300px;
+  left:65px;
+}
+.firstup{
+  position: absolute;
+  top:380px;
+  left:65px;
+  width: 230px;
+}
+
+.secondup{
+  position: absolute;
+  top:440px;
+  left:65px;
+  width: 230px;
+}
+
+.thirdup{
+  position: absolute;
+  top:530px;
+  left:65px;
+  width: 230px;
+
+}
+
+.whodonate{
+  position: absolute;
+  top:300px;
+  left:800px;
+  font-family: "Times New Roman", Times, serif;
+  color: #8C0000;
+
+}
+
+.firstmiddle{
+  position: absolute;
+  top:380px;
+  left:800px;
+
+}
+
+.secondmiddle{
+  position: absolute;
+  top:430px;
+  left:800px;
+}
+
+.thirdmiddle{
+  position: absolute;
+  top:480px;
+  left:800px;
+
+}
+
+.forthmiddle{
+  position: absolute;
+  top:530px;
+  left:800px;
+
+}
+
+.fifthmiddle{
+  position: absolute;
+  top:580px;
+  left:800px;
+
+
+}
+
+.sixthmiddle{
+  position: absolute;
+  top:630px;
+  left:800px;
+
+
+}
+
+.seventhmiddle{
+  position: absolute;
+  top:680px;
+  left:800px;
+  width: 400px;
+
+
+}
+
+.eighthmiddle{
+  position: absolute;
+  top:730px;
+  left:800px;
+  width: 400px;
+
+
+}
+
+.whydonate{
+  position: absolute;
+  top:750px;
+  left:5px;
+  font-family: "Times New Roman", Times, serif;
+  color:#8C0000;
+
+}
+
+.imgend{
+  position: absolute;
+  top:860px;
+  left:350px;
+
+}
+
+.firstend{
+  position: absolute;
+  top:860px;
+  left:130px;
+
+}
+
+.secondend{
+  position: absolute;
+  top:910px;
+  left:130px;
+  width: 150px;
+
+}
+
+.thirdend{
+  position: absolute;
+  top:990px;
+  left:130px;
+  width:180px;
+
+}
+
+.forthend{
+  position: absolute;
+  top:860px;
+  left:730px;
+  width: 210px;
+
+}
+
+.fifthend{
+  position: absolute;
+  top:910px;
+  left:730px;
+  width:210px;
+
+}
+
+.sixthend{
+  position: absolute;
+  top:960px;
+  left:730px;
+  width:210px;
+
+}
+
+
+

@@ -1,0 +1,132 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #dee2ff;
+  }
+  
+  .list {
+    overflow: hidden;
+    background-color: #8c0000;
+  }
+  
+  .list a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 128px;
+    font-family: Abril Fatface;
+  }
+  
+  .list a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .title {
+    font-size: 25px;
+    font-family: Abril Fatface;
+  }
+  
+  .one {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .two {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .three {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  .four {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .five {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .six {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .seven {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .eight {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .ten {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .nine {
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    font-family: Abril Fatface;
+  }
+  
+  .button {
+    display: flex;
+    width: 100px;
+    height: 50px;
+    background-color: #8c0000;
+    color: #f2f2f2;
+    margin-left: 290px;
+    margin-top: 25px;
+    border-radius: 4px;
+  }
+  
+  .text {
+    text-align: center;
+    padding-left: 14px;
+    font-family: Abril Fatface;
+  }
+  
+  input[type="text"],
+  select {
+    width: 30%;
+    padding: 10px 20px;
+    margin: 0 0;
+    display: inline-block;
+    border: 1px solid #8c0000;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding-left: 30px;
+    border-width: 5px;
+    border-style: groove;
+  }
+  
